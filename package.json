@@ -11,6 +11,10 @@
 	"keywords": [],
 	"author": "Gifaldy Azka",
 	"license": "MIT",
+	"engines": {
+		"node": "16.x",
+		"yarn": "1.x"
+	},
 	"dependencies": {
 		"@discordjs/opus": "0.7.0",
 		"discord-player": "5.2.2",
