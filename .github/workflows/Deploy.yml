@@ -1,0 +1,22 @@
+name: '[Heroku] Deploy CI'
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  builds:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: akhileshns/heroku-deploy@v3.12.12
+        with:
+          heroku_api_key: ${{secrets.HEROKU_API_KEY}}
+          heroku_app_name: 'koyorin'
+          heroku_email: 'falcxxdev@gmail.com'
+          buildpack: https://github.com/heroku/heroku-buildpack-nodejs.git
+        env:
+          HD_TOKEN: ${{secrets.TOKEN}}
+          HD_PREFIX: ${{secrets.PREFIX}}
+          HD_GUILD_ID: ${{secrets.GUILD_ID}}
