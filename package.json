@@ -23,10 +23,10 @@
 		"dotenv": "16.0.0",
 		"ffmpeg-static": "5.0.0",
 		"glob": "8.0.1",
-		"ytdl-core": "4.11.0"
+		"ytdl-core": "^4.11.0"
 	},
 	"devDependencies": {
-		"nodemon": "2.0.15",
+		"nodemon": "2.0.16",
 		"prettier": "2.6.2"
 	}
 }
