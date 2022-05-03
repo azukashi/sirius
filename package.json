@@ -1,7 +1,7 @@
 {
-	"name": "neptune",
+	"name": "shizuru",
 	"version": "1.0.0",
-	"description": "",
+	"description": "Music-featured Discord Bot at Falcxxdev's Private Server.",
 	"main": "index.js",
 	"scripts": {
 		"start": "node index.js",
@@ -9,8 +9,8 @@
 		"format": "prettier -w ."
 	},
 	"keywords": [],
-	"author": "Gifaldy Azka",
-	"license": "MIT",
+	"author": "Gifaldy Azka <me@falcxxdev.ml> (https://falcxxdev.ml)",
+	"license": "Apache-2.0",
 	"engines": {
 		"node": "16.x",
 		"yarn": "1.x"
