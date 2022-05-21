@@ -6,7 +6,7 @@ Music-featured Discord Bot at Falcxxdev's Private Server.
 
 ### 🛠️ Requirements
 
-A node.js >= 16.12.0 with [yarn](https://yarnpkg.com) is recommended.
+A node.js >= 16.12.0 with [yarn](https://yarnpkg.com) is highly recommended.
 
 ### 📦 Install dependencies
 
