@@ -1,6 +1,6 @@
-# Shizuru#4390
+# Sirius#1089
 
-Music-featured Discord Bot at Falcxxdev's Private Server.
+Discord bot that focused on music feature
 
 ## ➡️ Development
 
@@ -13,7 +13,7 @@ A node.js >= 16.12.0 with [yarn](https://yarnpkg.com) is highly recommended.
 ```bash
 $ yarn install
 #
-# yarn install v1.22.18
+# yarn install v1.22.xx
 # [1/4] 🔍  Resolving packages...
 # [2/4] 🚚  Fetching packages...
 # [3/4] 🔗  Linking dependencies...
@@ -38,7 +38,7 @@ $ nano .env # Or use your preferred code editor
 ```bash
 $ yarn run dev
 #
-# yarn run v1.22.18
+# yarn run v1.22.xx
 # $ nodemon index.js
 #
 # [nodemon] 2.0.16
@@ -46,9 +46,9 @@ $ yarn run dev
 # [nodemon] watching path(s): *.*
 # [nodemon] watching extensions: js,mjs,json
 # [nodemon] starting `node index.js`
-# Shizuru#4390 is up and ready to go!
+# Sirius#1089 is up and ready to go!
 ```
 
 ## 📄 License
 
-Shizuru is Licensed under [Apache 2.0](./LICENSE) License
+Sirius is Licensed under [Apache 2.0](./LICENSE) License
