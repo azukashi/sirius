@@ -1,7 +1,7 @@
 {
-	"name": "shizuru",
+	"name": "sirius",
 	"version": "1.0.0",
-	"description": "Music-featured Discord Bot at Falcxxdev's Private Server.",
+	"description": "Discord bot that focused on music feature",
 	"main": "index.js",
 	"scripts": {
 		"start": "node index.js",
