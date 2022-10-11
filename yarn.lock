@@ -291,10 +291,10 @@ discord-player@5.3.2:
     tiny-typed-emitter "^2.1.0"
     tslib "^2.4.0"
 
-discord.js@13.11.0:
-  version "13.11.0"
-  resolved "https://registry.yarnpkg.com/discord.js/-/discord.js-13.11.0.tgz#ccfa63e31c0a4281562b79992c1379a215efc3eb"
-  integrity sha512-/vA6oQtKilFlwVZSIFipPeWg5kU6gjUOffuaYWtDDJwIXKqiThNdymLkmQhnf8Ztlt+3vKsoqXENrgpQdaNCVQ==
+discord.js@13.12.0:
+  version "13.12.0"
+  resolved "https://registry.yarnpkg.com/discord.js/-/discord.js-13.12.0.tgz#e4839c14a02b1947e063b72f09a49b11336a58f5"
+  integrity sha512-K5qhREsYcTHkEqt7+7LcSoXTeQYZpI+SQRs9ei/FhbhUpirmjqFtN99P8W2mrKUyhhy7WXWm7rnna0AooKtIpw==
   dependencies:
     "@discordjs/builders" "^0.16.0"
     "@discordjs/collection" "^0.7.0"
@@ -304,7 +304,7 @@ discord.js@13.11.0:
     discord-api-types "^0.33.5"
     form-data "^4.0.0"
     node-fetch "^2.6.7"
-    ws "^8.8.1"
+    ws "^8.9.0"
 
 dotenv@16.0.3:
   version "16.0.3"
@@ -933,6 +933,11 @@ ws@^8.8.1:
   version "8.8.1"
   resolved "https://registry.yarnpkg.com/ws/-/ws-8.8.1.tgz#5dbad0feb7ade8ecc99b830c1d77c913d4955ff0"
   integrity sha512-bGy2JzvzkPowEJV++hF07hAD6niYSr0JzBNo/J29WsB57A2r7Wlc1UFcTR9IzrPvuNVO4B8LGqF8qcpsVOhJCA==
+
+ws@^8.9.0:
+  version "8.9.0"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-8.9.0.tgz#2a994bb67144be1b53fe2d23c53c028adeb7f45e"
+  integrity sha512-Ja7nszREasGaYUYCI2k4lCKIRTt+y7XuqVoHR44YpI49TtryyqbqvDMn5eqfW7e6HzTukDRIsXqzVHScqRcafg==
 
 yallist@^4.0.0:
   version "4.0.0"
